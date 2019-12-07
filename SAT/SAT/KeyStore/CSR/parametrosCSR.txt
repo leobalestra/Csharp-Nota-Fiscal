@@ -1,0 +1,1 @@
+C=BR,O=SEFAZ-SP,OU=AC-SAT,OU=identificacao,CN=Estabelecimento de Teste 2:11111111111111,ST=SAO PAULO,SN=123456789

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<parametrizacao_uso ambiente="2"><mensagem>PARAMETROS DE HOMOLOGACAO</mensagem><dados_do_contribuinte><cUF>35</cUF><CNPJ>11111111111111</CNPJ><xNome>Estabelecimento de Teste 2</xNome><xFantasia>Estabelecimento Fantasia 2</xFantasia><IE>111111111111</IE><cRegTrib>3</cRegTrib><enderEmit><xLgr>rua das flores</xLgr><nro>1005</nro><xCpl>frente</xCpl><xBairro>centro</xBairro><xMun>Sao Paulo</xMun><CEP>00000000</CEP></enderEmit></dados_do_contribuinte><conexao><cert_sefaz><cert>-----BEGIN CERTIFICATE-----
+MIIEEjCCAvqgAwIBAgIJAMrikcxxVrYEMA0GCSqGSIb3DQEBBQUAMGMxCzAJBgNV
+BAYTAkJSMRIwEAYDVQQIEwlTYW8gUGF1bG8xEjAQBgNVBAcTCVNhbyBQYXVsbzEO
+MAwGA1UEChMFU2VmYXoxDDAKBgNVBAsTA0RUSTEOMAwGA1UEAxMFU2VmYXowHhcN
+MTIxMTA2MTQzMTUyWhcNMTQxMTA2MTQzMTUyWjBjMQswCQYDVQQGEwJCUjESMBAG
+A1UECBMJU2FvIFBhdWxvMRIwEAYDVQQHEwlTYW8gUGF1bG8xDjAMBgNVBAoTBVNl
+ZmF6MQwwCgYDVQQLEwNEVEkxDjAMBgNVBAMTBVNlZmF6MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1j16D8gWNoTYNdh2toqttACO8d5e5b/sAANWIDwV
+AxIXVmAM8xuXirdfOtInDo5BGEyRNHUiHZEpfgYAa1Zwd3K8Jvsh0vlA2pf1A5wm
+SbNFq9gXgQCnH+w68vRNuPNZBOBzgORH2MqyB7zqI7KYyo2VCceR4Ls8jWfj+/lr
+jMApV87hH2WeUHxBYGI9OooUFN2yFeFJN3Zq3hKUXMEGiAGy9Vr+2fNxIohhePJf
+RZ2YKlWkvnWOfmOTTady1CeYKs3a1V1ffiSmqc832SwDQicblu77hvRuMimsIwgz
+ZJmwtJBlq0CwiSTLymaeFanCc+enetGkPpYgwQx5PLRKGQIDAQABo4HIMIHFMB0G
+A1UdDgQWBBQVtOORhiQs6jNPBR4tL5O3SJfHeDCBlQYDVR0jBIGNMIGKgBQVtOOR
+hiQs6jNPBR4tL5O3SJfHeKFnpGUwYzELMAkGA1UEBhMCQlIxEjAQBgNVBAgTCVNh
+byBQYXVsbzESMBAGA1UEBxMJU2FvIFBhdWxvMQ4wDAYDVQQKEwVTZWZhejEMMAoG
+A1UECxMDRFRJMQ4wDAYDVQQDEwVTZWZheoIJAMrikcxxVrYEMAwGA1UdEwQFMAMB
+Af8wDQYJKoZIhvcNAQEFBQADggEBALkDvAVO2c+usLSIbWDg09m6QBUgoqdIppNU
+wadzqVKDEHYt1ouiIM5oQW28z+1Mxpg9hDC9Bnd3mF5mKbvUUaeeQE2gu3wsaitB
+cCR54DxD1aFQT1PStc4QsTLar/6YMEVviRLjMqRebXjQg1/Tlaf5GDp6fVbWw7JS
+MoveeV7ge9r/rdg8M72XHQqcySOtqTi0xYsKgPm6+zazZkgrCA6PughnJXpkb0ZA
+mVCetPhIlmOZ2HbzIPdxg7E2AIIHkm9rm+hx4Y5+ZwFLfgtAJwP9EZGivhWxKWBd
+G62bAKEaYuunjhN7DTw/bsXV2z3lRg2DZ6KX40iV3i0PW2Fiy8M=
+-----END CERTIFICATE-----
+</cert></cert_sefaz><servidores><enderecos><endereco id="1">201.55.62.143</endereco><endereco id="2">201.55.62.143</endereco><endereco id="3">201.55.62.143</endereco></enderecos><porta>80</porta><webservices><CFeRecepcao>CFeRecepcao.php</CFeRecepcao><CFeRetRecepcao>CFeRetRecepcao.php</CFeRetRecepcao><CFeCancelamento>CFeCancelamento.php</CFeCancelamento><CFeStatus>CFeStatus.php</CFeStatus><CFeParametrizacao>CFeParametrizacao.php</CFeParametrizacao><CFeComandos>CFeComandos.php</CFeComandos><CFeAtualizacao>CFeAtualizacao.php</CFeAtualizacao><CFeTeste>CFeTeste.php</CFeTeste><CFeSignAC>CFeSignAC.php</CFeSignAC><CFeLogs>CFeLogs.php</CFeLogs></webservices></servidores></conexao><cert_https><cert>-----BEGIN CERTIFICATE-----
+MIIEEjCCAvqgAwIBAgIJAMrikcxxVrYEMA0GCSqGSIb3DQEBBQUAMGMxCzAJBgNV
+BAYTAkJSMRIwEAYDVQQIEwlTYW8gUGF1bG8xEjAQBgNVBAcTCVNhbyBQYXVsbzEO
+MAwGA1UEChMFU2VmYXoxDDAKBgNVBAsTA0RUSTEOMAwGA1UEAxMFU2VmYXowHhcN
+MTIxMTA2MTQzMTUyWhcNMTQxMTA2MTQzMTUyWjBjMQswCQYDVQQGEwJCUjESMBAG
+A1UECBMJU2FvIFBhdWxvMRIwEAYDVQQHEwlTYW8gUGF1bG8xDjAMBgNVBAoTBVNl
+ZmF6MQwwCgYDVQQLEwNEVEkxDjAMBgNVBAMTBVNlZmF6MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1j16D8gWNoTYNdh2toqttACO8d5e5b/sAANWIDwV
+AxIXVmAM8xuXirdfOtInDo5BGEyRNHUiHZEpfgYAa1Zwd3K8Jvsh0vlA2pf1A5wm
+SbNFq9gXgQCnH+w68vRNuPNZBOBzgORH2MqyB7zqI7KYyo2VCceR4Ls8jWfj+/lr
+jMApV87hH2WeUHxBYGI9OooUFN2yFeFJN3Zq3hKUXMEGiAGy9Vr+2fNxIohhePJf
+RZ2YKlWkvnWOfmOTTady1CeYKs3a1V1ffiSmqc832SwDQicblu77hvRuMimsIwgz
+ZJmwtJBlq0CwiSTLymaeFanCc+enetGkPpYgwQx5PLRKGQIDAQABo4HIMIHFMB0G
+A1UdDgQWBBQVtOORhiQs6jNPBR4tL5O3SJfHeDCBlQYDVR0jBIGNMIGKgBQVtOOR
+hiQs6jNPBR4tL5O3SJfHeKFnpGUwYzELMAkGA1UEBhMCQlIxEjAQBgNVBAgTCVNh
+byBQYXVsbzESMBAGA1UEBxMJU2FvIFBhdWxvMQ4wDAYDVQQKEwVTZWZhejEMMAoG
+A1UECxMDRFRJMQ4wDAYDVQQDEwVTZWZheoIJAMrikcxxVrYEMAwGA1UdEwQFMAMB
+Af8wDQYJKoZIhvcNAQEFBQADggEBALkDvAVO2c+usLSIbWDg09m6QBUgoqdIppNU
+wadzqVKDEHYt1ouiIM5oQW28z+1Mxpg9hDC9Bnd3mF5mKbvUUaeeQE2gu3wsaitB
+cCR54DxD1aFQT1PStc4QsTLar/6YMEVviRLjMqRebXjQg1/Tlaf5GDp6fVbWw7JS
+MoveeV7ge9r/rdg8M72XHQqcySOtqTi0xYsKgPm6+zazZkgrCA6PughnJXpkb0ZA
+mVCetPhIlmOZ2HbzIPdxg7E2AIIHkm9rm+hx4Y5+ZwFLfgtAJwP9EZGivhWxKWBd
+G62bAKEaYuunjhN7DTw/bsXV2z3lRg2DZ6KX40iV3i0PW2Fiy8M=
+-----END CERTIFICATE-----
+</cert></cert_https><transmissao><tipo>tempo</tipo><valor>00:05:00</valor></transmissao><verificacao><tipo>tempo</tipo><valor>00:05:00</valor><verProcesso>1</verProcesso></verificacao><comandos><tipo>tempo</tipo><valor>00:05:00</valor></comandos><ntp><endereco>ntp.cais.rnp.br</endereco><porta>123</porta><horario_verao><inicio>20131020000000</inicio><fim>20140216000000</fim></horario_verao><fuso_horario>3</fuso_horario></ntp><autoBloqueio><tipoBloqueio>conexao</tipoBloqueio><valorBloqueio>1</valorBloqueio></autoBloqueio><nivelLog>0</nivelLog><outros><limiteCFe>1000000</limiteCFe></outros></parametrizacao_uso>

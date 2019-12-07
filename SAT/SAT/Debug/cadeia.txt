@@ -1,0 +1,1 @@
+Raiz:CN=Sefaz, OU=DTI, O=Sefaz, L=Sao Paulo, ST=Sao Paulo, C=BR

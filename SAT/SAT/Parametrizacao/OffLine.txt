@@ -1,0 +1,1 @@
+<configuracoes><atualizacao>0</atualizacao><renovacao>false</renovacao><renovacaoAviso>false</renovacaoAviso><bloqueioSefaz>false</bloqueioSefaz><bloqueioContribuinte>false</bloqueioContribuinte><cessacao>false</cessacao><bloqueioAutonomo>false</bloqueioAutonomo></configuracoes>

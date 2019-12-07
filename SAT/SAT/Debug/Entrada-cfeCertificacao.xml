@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Header><cfeCabecMsg xmlns="http://www.fazenda.sp.gov.br/sat/wsdl/CfeCertificacao"><versaoDados>0.06</versaoDados><cUF>35</cUF></cfeCabecMsg></soap:Header><soap:Body><cfeCertificacao xmlns="http://www.fazenda.sp.gov.br/sat/wsdl/CfeCertificacao"><cfeDadosMsg><![CDATA[<certifica xmlns="http://www.fazenda.sp.gov.br/sat" versao="0.06"><tpAmb>2</tpAmb><cUF>35</cUF><opt>CSR</opt><CSR>-----BEGIN CERTIFICATE REQUEST-----
+MIIDGzCCAgMCAQAwgZ4xCzAJBgNVBAYTAkJSMREwDwYDVQQKDAhTRUZBWi1TUDEP
+MA0GA1UECwwGQUMtU0FUMQ8wDQYDVQQLDAZBQy1TQVQxMjAwBgNVBAMMKUVzdGFi
+ZWxlY2ltZW50byBkZSBUZXN0ZSAyOjExMTExMTExMTExMTExMRIwEAYDVQQIDAlT
+QU8gUEFVTE8xEjAQBgNVBAUTCTEyMzQ1Njc4OTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAO76WUrBUkwItzerPzV2CdzqEBJILz+tMK99g87xidGD0Abg
+FTUcf6QREjUXriNvNBqH2Ri+yxXBXeZigGKd5JP/Apg3pwMERcHUXqX00h0wpCP9
+Y/gzF8E7XM6NS8C522fbaP2kf4dLMcABSoPsniUua05ZiWuce3/vef3MSw2Axvls
+VbpivP9NNzMdb6875ocwACkgQ1yks8UXVf+8uVcZQnI7mfr+vF44pJQQQ7daWTYp
+E/spvL1stbnsl7f1+lhGDuEsN/8HUipZ7HprEaa27sM3kZ8zyYz2Qub2ZolbizfS
+U2XUfywLwok760bjr0YS6z5BMbBuV78Vfbua8ekCAwEAAaA3MDUGCSqGSIb3DQEJ
+DjEoMCYwJAYDVR0RBB0wG6AZBgVgTAEDA6AQBA4xMTExMTExMTExMTExMTANBgkq
+hkiG9w0BAQsFAAOCAQEAHUn3CpMuWkt4dT/l0F2+s46ljEoxoEhFwWF4e2D/9kYE
+TaboohmRhjZmUqXr047eqnr0rGr4w7XD5AnUh/XEXXcjnIwZ1Tpy5gxW6oVpFaRI
+kHQoA98rIamMWVc4mSfZOaV/VPTUekTHstvVdGMrug/Ro8qYbtyPDts5FHlfsQ+T
+01OLWpJ9v+Mf5b4DCZcAwiDm1SLyZNn3qGP9NWXrNGSOASAMQ4/n9GK81iRNGRTo
+wrtDiNYQ++BQs57EFr0ELcimXEun8hpqchKODFDkApXkscft1H9n24JRMcVnFK0X
+oBwuYX9axoArJuVPs8EWfqKV66S5G3TC3QpGswhtlg==
+-----END CERTIFICATE REQUEST-----</CSR><nSeg>ewfgwefewfwefqwfwefqwefewqfewfewfewfewqfew</nSeg><dhEnvio>20160817145256</dhEnvio><nserieSAT>123456789</nserieSAT></certifica>]]></cfeDadosMsg></cfeCertificacao></soap:Body></soap:Envelope>
